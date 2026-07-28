@@ -1,7 +1,7 @@
-# ⚡ Van Stan (vow-sta-n)
+# Van Stan (vow-sta-n)
 ### Architecting Systems at the Intersection of Code, Psychology, and Physical Sciences
 
-Welcome, Sir. I am a technologist, product designer, and entrepreneur who believes that the best software is built by understanding the physical and psychological world it operates in. 
+Welcome, I am a technologist, product designer, and entrepreneur who believes that the best software is built by understanding the physical and psychological world it operates in. 
 
 Currently driving innovation at **Novaturients**, I specialize in agency-level full-stack development, interactive digital experiences, and bridging the gap between digital interfaces and physical hardware. My work spans from highly animated web architectures to patented product development and industrial integrations.
 
