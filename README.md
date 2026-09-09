@@ -2,7 +2,6 @@
 ### Architecting Systems at the Intersection of Code, Psychology, and Physical Sciences
 
 <p align="left">
-  <a href="https://novaturients.in"><img src="https://img.shields.io/badge/Website-novaturients.in-0066FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" /></a>
   <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
   <a href="https://developer.mozilla.org"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
@@ -12,9 +11,9 @@
 
 ---
 
-👋 **Hello, World!** I am a product architect, full-stack engineer, and multidisciplinary researcher. As the founder of **[Novaturients](https://novaturients.in)**, I operate where digital logic meets human behavior and physical material systems.
+👋 **Hello, World!** I am a product architect, full-stack engineer, and multidisciplinary researcher operating where digital logic meets human behavior and physical material systems.
 
-Rather than treating code as abstract numbers, I build software designed around how the human mind perceives, navigates, and interacts with tools—from production mobile apps in thousands of hands to empirical cloud research telemetry and patented physical hardware prototypes.
+Rather than treating code as abstract numbers, I build software designed around how the human mind perceives, navigates, and interacts with tools—from production mobile apps in active use to empirical cloud research telemetry and patented physical hardware prototypes.
 
 ---
 
@@ -75,18 +74,6 @@ Rather than treating code as abstract numbers, I build software designed around 
 ---
 
 ## 🚀 Shipped Softwares & Open-Source Ecosystem
-
-```
-               ┌───────────────────────────────┐
-               │    NOVATURIENTS ECOSYSTEM     │
-               └───────────────┬───────────────┘
-          ┌────────────────────┼────────────────────┐
-          ▼                    ▼                    ▼
-   [Production Apps]     [Developer Tools]    [Figma Ecosystem]
-   • Google Play Store   • PDF Hawk           • Flutter Da Vinci
-   • Internal Testing    • Snap Tag
-```
-
 ### 📱 Applications
 * **[Production Mobile App]** &nbsp; `Google Play Store` &nbsp;•&nbsp; `GPLv3 / PolyForm`
   * Published and live on the Google Play Store for global users.
@@ -117,7 +104,7 @@ Rather than treating code as abstract numbers, I build software designed around 
   * **Statistical Modeling:** Automated correlation analysis, descriptive statistics, and visualization using **Python** (Pandas/NumPy) & **SQL**.
 
 ### 📖 Editorial & Narrative Craftsmanship
-* **Magazine Publisher & Editor:** Founded, authored, and distributed an independent print and digital publication exploring systemic thinking, cognitive frameworks, and digital craftsmanship.
+* **Magazine Publisher & Editor:** Authored, edited, and distributed an independent print and digital publication exploring systemic thinking, cognitive frameworks, and digital craftsmanship.
 * **Dialectical Models:** Formulating structured writing on the tension between analytical systems and instinctual human drive.
 
 ### ⚙️ Physical Computing & Industrial Systems
@@ -138,9 +125,8 @@ Rather than treating code as abstract numbers, I build software designed around 
 
 ## 🤝 Let's Connect & Build Something Enduring
 
-* 🌐 **Website:** [novaturients.in](https://novaturients.in)
-* 💼 **Ecosystem:** [Novaturients on GitHub](https://github.com/vow-sta-n)
-* 📬 **Inquiries & Collaborations:** Open to ambitious systems, open-source innovations, and cross-disciplinary challenges.
+* 💼 **Open Source:** [github.com/vow-sta-n](https://github.com/vow-sta-n)
+* 📬 **Inquiries & Collaborations:** Open to ambitious software architectures, open-source innovations, and cross-disciplinary challenges.
 
 <p align="center">
   <sub>Crafted with curiosity, code, and care • © 2026 Van Stan</sub>
