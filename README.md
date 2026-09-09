@@ -1,44 +1,17 @@
-# Van Stan (vow-sta-n)
+# Van Stan (vow-sta-n) ⚡
 ### Architecting Systems at the Intersection of Code, Psychology, and Physical Sciences
 
-Welcome, I am a technologist, product designer, and entrepreneur who believes that the best software is built by understanding the physical and psychological world it operates in. 
-
-Currently driving innovation at **Novaturients**, I specialize in agency-level full-stack development, interactive digital experiences, and bridging the gap between digital interfaces and physical hardware. My work spans from highly animated web architectures to patented product development and industrial integrations.
-
----
-
-## 🛠️ Core Engineering & Design
-*   **Web & Software Development:** Agency-level website building, complex system architecture, and UI/UX design.
-*   **Frontend Mastery:** Advanced DOM manipulation, GSAP, SVG path animations, and CSS masking effects for highly interactive interfaces.
-*   **Systems & Hardware:** Embedded systems and robotics, with a heavy focus on the ESP32 ecosystem.
-*   **Product Design:** 3D modeling and rendering in Blender, transitioning digital concepts into patented physical products.
-
-## 🧠 Domain Expertise (The Cross-Disciplinary Advantage)
-I do not just write code; I engineer solutions backed by deep domain knowledge in:
-*   **Psychology & Human Behavior:** Leveraging principles of personality theories, counseling, and psychotherapy to design highly intuitive and user-centric systems.
-*   **Biology & Material Science:** Exploring industrial chemistry, organic chemical extraction (e.g., from biomaterials), and energy tech (sodium metal fuel cells).
-*   **Architectural Planning:** Designing functional spaces with a focus on natural ventilation and flow, applying structural thinking to both physical and digital environments.
-*   **Applied Philosophy:** Developing narrative-driven frameworks (such as the dynamics between contrasting theoretical concepts) to drive content and brand strategy.
+[![Website](https://img.shields.io/badge/Portfolio-novaturients.in-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://novaturients.in)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org)
+[![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
 
 ---
 
-## 🚀 Featured Projects & Products
-
-### Commercial & Core Initiatives
-*   **Project Alpha Grid:** [Briefly describe the core value proposition of Alpha Grid here, e.g., A robust framework/platform for X].
-*   **Flutter Da Vinci:** A comprehensive Figma plugin engineered to streamline the design-to-code pipeline for Flutter developers.
-*   **Industrial Digital Transformation:** Architecting tech-driven marketing channels and web applications for traditional textile-based chemical processing infrastructures.
-*   **Patented Product Development:** Currently deep in the R&D and digital integration phase for a proprietary, patented hardware/software product.
-
-### 🌟 Open-Source & Community Work (Novaturients)
-I actively build tools to empower the community under the Novaturients banner:
-*   **Snap Tag:** [Briefly describe what this tool does, e.g., An intelligent tagging utility for rapid workflow organization].
-*   **PDF Hawk:** [Briefly describe the utility, e.g., A high-performance PDF parsing and extraction tool for developers].
+I build software, hardware prototypes, and digital products by studying how human behavior and physical laws interact with code. As the founder of **[Novaturients](https://novaturients.in)**, I take projects from zero to production—spanning production mobile apps, patented physical products, and empirical psychological research platforms.
 
 ---
 
-## 📈 Current Trajectory
-When I am not pushing code or designing in Blender, I am navigating the transition from trading to manufacturing by setting up production infrastructure for organic compounds, studying the future tech scope of legacy industries, and crafting philosophical narratives.
-
-Let's build something that matters. 
-🔗 **[novaturients.in](https://novaturients.in)**
+## 🛠️ The Technical Stack
